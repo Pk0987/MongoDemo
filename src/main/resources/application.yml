@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://poongkannan16:mongoPK0987@clusterpk.wd0pwrf.mongodb.net/?retryWrites=true&w=majority
+      database: productdb
